@@ -14,4 +14,5 @@ case.
 You can connect to the nrepl server from a client, keep main running and make
 live modifications to your sketch instead of stopping and re-running like one
 would normally do in processing. There are many options to connect remotely, i
-use [conjure](https://github.com/Olical/conjure) for example.
+use [conjure](https://github.com/Olical/conjure) which allows me to communicate
+with the nrepl server by evaluating code from my neovim session.
