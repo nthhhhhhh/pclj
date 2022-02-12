@@ -10,7 +10,7 @@ the directories in the generated `project.clj`.
 Enter the cloned directory then run 
 * `lein install`
 * move to a directory where you want to create a project
-* `lein new pclj/new sketch`
+* `lein new pclj/new sketch --snapshot`
 * enter sketch directory
 * `lein run` should get you a sketch window.
 
